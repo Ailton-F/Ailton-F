@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">
 
-<!--
-**Ailton-F/Ailton-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, what's up ?
+### I'm Ailton, here is a little about me:
 
-Here are some ideas to get you started:
+Learning Python for back-end development | Computer science aspirant :robot:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Infoweb student at IFRN :book:
+
+I guess it goes without saying that i'm passionate about technology....right? :heart:
+
+### Social media's
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ailton-F)](https://github.com/Ailton-F)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-f-1bbb90217/)](https://www.linkedin.com/in/ailton-f-1bbb90217/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ailtonxdz@gmail.com)](mailto:ailtonxdz@gmail.com)
+
+-Thanks for the visit!
