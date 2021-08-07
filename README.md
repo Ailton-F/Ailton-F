@@ -9,7 +9,7 @@ Infoweb student at IFRN :book:
 
 I guess it goes without saying that i'm passionate about technology....right? :heart:
 
-### Social media's
+### Social medias
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ailton-F)](https://github.com/Ailton-F)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-f-1bbb90217/)](https://www.linkedin.com/in/ailton-f-1bbb90217/)
