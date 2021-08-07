@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">
 
 ### Hey, what's up ?
-### I'm Ailton, here is a little about me:
+### I'm Ailton, here is a little bit about me:
 
 Learning Python for back-end development | Computer science aspirant :robot:
 
