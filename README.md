@@ -10,7 +10,7 @@ Infoweb student at IFRN :book:
 I guess it goes without saying that i'm passionate about technology....right? :heart:
 <hr>
 
-### Social medias
+### Social medias:
 
 
 
