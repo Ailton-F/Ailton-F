@@ -11,10 +11,6 @@ I guess it goes without saying that i'm passionate about technology....right? :h
 
 <br>
 
-### Social medias:
-
-<br>
-
 ## Portfolio: linktr.ee/ailtonborgesf
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ailton-F)](https://github.com/Ailton-F)
