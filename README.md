@@ -5,7 +5,7 @@
 
 Learning Python for full-stack development | Computer Science aspirant :robot:
 
-Infoweb student at IFRN :book:
+High school graduate from IFRN - infoweb :book:
 
 I guess it goes without saying that i'm passionate about technology....right? :heart:
 
