@@ -3,7 +3,7 @@
 ### Hey, what's up ?
 ### I'm Ailton, here is a little bit about me:
 
-Learning Python for full-stack development | Computer Science aspirant :robot:
+Back-end developer | Computer Science aspirant :robot:
 
 High school graduate from IFRN - infoweb :book:
 
