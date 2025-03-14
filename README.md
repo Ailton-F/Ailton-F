@@ -11,8 +11,6 @@ Pursuing bacherlor's degree in C&T :book:
 
 I guess it goes without saying that i'm passionate about technology....right? :heart:
 
-<br clear="both">
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmsramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
