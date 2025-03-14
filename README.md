@@ -3,9 +3,10 @@
 ### Hey, what's up ?
 ### I'm Ailton, here is a little bit about me:
 
-Back-end developer | Computer Science aspirant :robot:
+Fullstack developer | Computer Science aspirant :robot:
 
 High school graduate from IFRN - infoweb :book:
+Pursuing bacherlor's degree in C&T :book:
 
 I guess it goes without saying that i'm passionate about technology....right? :heart:
 
