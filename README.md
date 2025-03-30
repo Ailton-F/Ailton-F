@@ -8,7 +8,7 @@ Fullstack developer | Computer Science aspirant :robot:
 
 High school graduate from IFRN - infoweb :book:
 
-Pursuing bacherlor's degree in C&T :book:
+Pursuing bacherlor's degree in C&T at UERN:book:
 
 I guess it goes without saying that i'm passionate about technology....right? :heart:
 
