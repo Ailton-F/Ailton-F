@@ -4,7 +4,7 @@
 ### Hey, what's up ?
 ### I'm Ailton Filho from Rio Grande do Norte, here is a little bit about me:
 
-Fullstack developer | Biomedic Engineering :robot:
+Fullstack developer | Biomedic Engineering aspirant :robot:
 
 High school graduate from IFRN - infoweb :book:
 
